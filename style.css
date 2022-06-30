@@ -1,0 +1,56 @@
+.link a{
+    text-decoration: none;
+    color :black;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color:white;
+}
+
+
+.img-fluid {
+    margin: 2rem 0.25rem 0rem 0rem;
+}
+
+.Support-channels{
+    background-color: blue;
+    color:white;
+}
+.card_description{
+    text-align: justify;
+   
+}
+.banner{
+    background-image: url("assets/img/banner-img.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+   
+}
+
+.banner-img {
+    width: 100%;
+    height: auto;
+}
+
+.msg-textarea {
+    height: 90%;
+}
+
+.form-btn {
+    float: right;
+}
+.contact-footer {
+    margin-top:100px;
+}
+.contact-container h2::after {
+    display: block;
+    content: "";
+    border: 2px black solid;
+    height: 2px;
+    width: 5%;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
